@@ -9,7 +9,7 @@ Welcome to my certifications repository! This space showcases some of the profes
 This certificate was awarded upon successful completion of a certified drone training program conducted at **IIT Mandi**.
 
 📄 **View Certificate:**  
-👉 [IIT Mandi Drone Certificate (PDF)](./IIT_Mandi_Drone_Certificate.pdf)
+👉 [IIT Mandi Drone Certificate (PDF)](https://github.com/ayush-030/IIT-Mandi-Drone-Certification/blob/main/Ayush_Rawat_IITMandi_Drone_Certificate.pdf)
 
 🗓️ **Issued:** [December, 2023]  
 🏫 **Institution:** Indian Institute of Technology, Mandi  
