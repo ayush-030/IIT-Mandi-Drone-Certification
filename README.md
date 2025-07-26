@@ -1,9 +1,3 @@
-# 📜 My Certifications
-
-Welcome to my certifications repository! This space showcases some of the professional and academic certifications I have earned over the course of my technical journey.
-
----
-
 ## 🚁 IIT Mandi Drone Certificate
 
 This certificate was awarded upon successful completion of a certified drone training program conducted at **IIT Mandi**.
